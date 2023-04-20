@@ -2,6 +2,7 @@
 
 ## Description
 Welcome to "[GS] Hub"! This script is a hub for the game "String Muscle Simulator". This hub comes with many features, and will make the game a lot faster for you!
+The script is open source, so you can run it with the entire source, or use the loadstring to run it.
 Game Link: https://www.roblox.com/games/10945472407/Strong-Muscle-Simulator
 
 ## Features
